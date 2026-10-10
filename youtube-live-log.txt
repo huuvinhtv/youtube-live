@@ -1,0 +1,164 @@
+==================================================
+ THỐNG KÊ CHUNG:
+ - Tổng số kênh đã quét: 41
+ - Số kênh đang phát Live: 9
+ - Tổng số luồng Live thu thập được: 12
+==================================================
+
+==================================================
+ BÁO CÁO QUÉT LUỒNG LIVE YOUTUBE - 2026-10-10 18:18:33
+==================================================
+
+💤 Kênh: @LasVegasBE
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @ProBilliardTV
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @AutoAddictionMedia
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @MatchroomMultiSport
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @BoxBilliardsPoolVietnam
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @qpvndigital
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @v1championship
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @NinjaWarriorAU
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @WorldSiam_Stadium
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @52SUPERSERIES
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+✅ Kênh: @PeakFighting (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: 🔴 LIVE MMA 24/7 • BRUTAL KNOCKOUTS & SUBMISSIONS! | Peak Fighting Full Events PFC 29-32
+   👉 Tiêu đề M3U (đã làm sạch): MMA • BRUTAL KNOCKOUTS & SUBMISSIONS! Peak Fighting Full Events PFC 29-32
+   🔗 Link: https://www.youtube.com/watch?v=5FOxrzVMBbA
+
+💤 Kênh: @BellatorMMA
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+✅ Kênh: @PFLMMA (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: 2026 PFL Africa: Casablanca | Full Event
+   👉 Tiêu đề M3U (đã làm sạch): 2026 PFL Africa: Casablanca Full Event
+   🔗 Link: https://www.youtube.com/watch?v=L5OC9ddQirM
+
+💤 Kênh: @ffvolleylivestream
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @powerliftingtv
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+✅ Kênh: @BoxingMates1 (Có 3 luồng đang Live)
+   👉 Tiêu đề gốc: 🔴The Japanese Bruce Lee Who Conquered Thailand – Nadaka Yoshinari
+   👉 Tiêu đề M3U (đã làm sạch): The Japanese Bruce Lee Who Conquered Thailand – Nadaka Yoshinari
+   🔗 Link: https://www.youtube.com/watch?v=BBUFSZ0ORUc
+
+   👉 Tiêu đề gốc: 🔴 When WWE Star DESTROYED Cocky MMA Fighters - Bobby Lashley
+   👉 Tiêu đề M3U (đã làm sạch): When WWE Star DESTROYED Cocky MMA Fighters - Bobby Lashley
+   🔗 Link: https://www.youtube.com/watch?v=Yz05zU_0Rbc
+
+   👉 Tiêu đề gốc: 🔴The Japanese Bruce Lee of Kickboxing: Tenshin Nasukawa Insane Knockouts
+   👉 Tiêu đề M3U (đã làm sạch): The Japanese Bruce Lee of Kickboxing: Tenshin Nasukawa Insane Knockouts
+   🔗 Link: https://www.youtube.com/watch?v=CeI_65aLq-8
+
+💤 Kênh: @volleyballworld
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @ProBilliardTV
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+❌ Kênh: @MatchroomPool1
+   - Trạng thái: Không tìm thấy ytInitialData.
+
+💤 Kênh: @doublekisspool
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @KozoomPoolTV
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @SomersetCricket
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+✅ Kênh: @ESLCS (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: Team Spirit vs. MOUZ - ESL Pro League Season 24 - Semifinals
+   👉 Tiêu đề M3U (đã làm sạch): Team Spirit vs. MOUZ - ESL Pro League Season 24 - Semifinals
+   🔗 Link: https://www.youtube.com/watch?v=P_eQEE3qlbM
+
+✅ Kênh: @FIBA3x3 (Có 2 luồng đang Live)
+   👉 Tiêu đề gốc: LIVE 🔴 Hangzhou 🇨🇳 vs Kaunas 🇱🇹 | Pool Game | FIBA #3x3WorldTour Bucharest 2026 | #3x3basketball
+   👉 Tiêu đề M3U (đã làm sạch): Hangzhou 🇨🇳 vs Kaunas 🇱🇹 Pool Game FIBA #3x3WorldTour Bucharest 2026 #3x3basketball
+   🔗 Link: https://www.youtube.com/watch?v=x5cca3X2ZsI
+
+   👉 Tiêu đề gốc: LIVE 🔴 FIBA #3x3WorldTour Bucharest 2026 | Pool Phase - Session 2 | #3x3Basketball
+   👉 Tiêu đề M3U (đã làm sạch): FIBA #3x3WorldTour Bucharest 2026 Pool Phase - Session 2 #3x3Basketball
+   🔗 Link: https://www.youtube.com/watch?v=Vm6xQOc_PJQ
+
+💤 Kênh: @chimsedinangaoe
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @ValorantEsports
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @iRacingOfficial
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @VBAofficial
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @garenaaovid
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+❌ Kênh: @nbboficial
+   - Trạng thái: Không tìm thấy ytInitialData.
+
+✅ Kênh: @TVArenaEsport (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: ESL Pro Liga Sezona 24 - POLUFINALE - Team Vitality vs Aurora | Team Spirit vs MOUZ
+   👉 Tiêu đề M3U (đã làm sạch): ESL Pro Liga Sezona 24 - POLUFINALE - Team Vitality vs Aurora Team Spirit vs MOUZ
+   🔗 Link: https://www.youtube.com/watch?v=dT7ZZ2gXnmA
+
+💤 Kênh: @DTCLVN
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @Levi97
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @afc78
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+❌ Kênh: @MsbRewind
+   - Trạng thái: Không tìm thấy ytInitialData.
+
+💤 Kênh: @fcmnlop
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @pbatv
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+✅ Kênh: @WWEVault (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: 24/7 Ladder Match Marathon | Classic battles, rare footage and more!
+   👉 Tiêu đề M3U (đã làm sạch): Ladder Match Marathon Classic battles rare footage and more!
+   🔗 Link: https://www.youtube.com/watch?v=JiBpze42lNA
+
+✅ Kênh: @WWPTV (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: Mega Pulling Trucks by WWPTV
+   👉 Tiêu đề M3U (đã làm sạch): Mega Pulling Trucks by WWPTV
+   🔗 Link: https://www.youtube.com/watch?v=myxZjapSKCo
+
+✅ Kênh: @GPTV (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: 🔴GPTV AO VIVO 24H | CORRIDAS DE F1, WEC, IMSA, GTWC, MOTOGP E MAIS | GRANDE PRÊMIO
+   👉 Tiêu đề M3U (đã làm sạch): GPTV AO VIVO 24H CORRIDAS DE F1 WEC IMSA GTWC MOTOGP E MAIS GRANDE PRÊMIO
+   🔗 Link: https://www.youtube.com/watch?v=ljcTMyK2pzE
+
+💤 Kênh: @KozoomPoolTV
+   - Trạng thái: Không có luồng Live nào đang phát.
+
