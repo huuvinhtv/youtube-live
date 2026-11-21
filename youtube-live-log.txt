@@ -1,0 +1,164 @@
+==================================================
+ THỐNG KÊ CHUNG:
+ - Tổng số kênh đã quét: 41
+ - Số kênh đang phát Live: 9
+ - Tổng số luồng Live thu thập được: 12
+==================================================
+
+==================================================
+ BÁO CÁO QUÉT LUỒNG LIVE YOUTUBE - 2026-11-21 09:23:20
+==================================================
+
+💤 Kênh: @LasVegasBE
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @ProBilliardTV
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @AutoAddictionMedia
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @MatchroomMultiSport
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+❌ Kênh: @BoxBilliardsPoolVietnam
+   - Trạng thái: Không tìm thấy ytInitialData.
+
+💤 Kênh: @qpvndigital
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @v1championship
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @NinjaWarriorAU
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @WorldSiam_Stadium
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @52SUPERSERIES
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+✅ Kênh: @PeakFighting (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: 🔴 LIVE MMA 24/7 • BRUTAL KNOCKOUTS & SUBMISSIONS! | Peak Fighting Full Events PFC 29-32
+   👉 Tiêu đề M3U (đã làm sạch): MMA • BRUTAL KNOCKOUTS & SUBMISSIONS! Peak Fighting Full Events PFC 29-32
+   🔗 Link: https://www.youtube.com/watch?v=5FOxrzVMBbA
+
+✅ Kênh: @BellatorMMA (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: The Most HEATED Rivalries 🔥 | 24/7 Live Stream
+   👉 Tiêu đề M3U (đã làm sạch): The Most HEATED Rivalries 🔥
+   🔗 Link: https://www.youtube.com/watch?v=8abIh8r3sZg
+
+💤 Kênh: @PFLMMA
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @ffvolleylivestream
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @powerliftingtv
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+✅ Kênh: @BoxingMates1 (Có 3 luồng đang Live)
+   👉 Tiêu đề gốc: 🔴 WHEN GIANTS COLLIDE! 💥The Most Brutal Size Mismatches in Combat Sports
+   👉 Tiêu đề M3U (đã làm sạch): WHEN GIANTS COLLIDE! 💥The Most Brutal Size Mismatches in Combat Sports
+   🔗 Link: https://www.youtube.com/watch?v=d3n2KEIB9k0
+
+   👉 Tiêu đề gốc: 🔴 When WWE Star DESTROYED Cocky MMA Fighters - Bobby Lashley
+   👉 Tiêu đề M3U (đã làm sạch): When WWE Star DESTROYED Cocky MMA Fighters - Bobby Lashley
+   🔗 Link: https://www.youtube.com/watch?v=Yz05zU_0Rbc
+
+   👉 Tiêu đề gốc: 🔴The Japanese Bruce Lee of Kickboxing: Tenshin Nasukawa Insane Knockouts
+   👉 Tiêu đề M3U (đã làm sạch): The Japanese Bruce Lee of Kickboxing: Tenshin Nasukawa Insane Knockouts
+   🔗 Link: https://www.youtube.com/watch?v=CeI_65aLq-8
+
+💤 Kênh: @volleyballworld
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @ProBilliardTV
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+❌ Kênh: @MatchroomPool1
+   - Trạng thái: Không tìm thấy ytInitialData.
+
+💤 Kênh: @doublekisspool
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @KozoomPoolTV
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @SomersetCricket
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @ESLCS
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @FIBA3x3
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+✅ Kênh: @chimsedinangaoe (Có 2 luồng đang Live)
+   👉 Tiêu đề gốc: Trực tiếp | AOE QUẦN HÙNG TRANH BÁ | 4vs4 Random | HELIOS ESPORTS vs EGO MEDIA | BLV Tuấn Cùi
+   👉 Tiêu đề M3U (đã làm sạch): Trực tiếp AOE QUẦN HÙNG TRANH BÁ 4vs4 Random HELIOS ESPORTS vs EGO MEDIA BLV Tuấn Cùi
+   🔗 Link: https://www.youtube.com/watch?v=FILHJutTghM
+
+   👉 Tiêu đề gốc: Trực tiếp | AOE QUẦN HÙNG TRANH BÁ | 4vs4 Random | Chạm 7 | EGO MEDIA vs TEAM HELIOS ESPORTS
+   👉 Tiêu đề M3U (đã làm sạch): Trực tiếp AOE QUẦN HÙNG TRANH BÁ 4vs4 Random Chạm 7 EGO MEDIA vs TEAM HELIOS ESPORTS
+   🔗 Link: https://www.youtube.com/watch?v=Jn56nQqR4VU
+
+💤 Kênh: @ValorantEsports
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @iRacingOfficial
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @VBAofficial
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @garenaaovid
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @nbboficial
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @TVArenaEsport
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+✅ Kênh: @DTCLVN (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: 🔴 NGÀY 2 – VÒNG CHUNG KẾT GIẢI VÔ ĐỊCH QUỐC GIA | YBY1, A LONG, SOFM,... | ĐTCL MÙA 18
+   👉 Tiêu đề M3U (đã làm sạch): NGÀY 2 – VÒNG CHUNG KẾT GIẢI VÔ ĐỊCH QUỐC GIA YBY1 A LONG SOFM ... ĐTCL MÙA 18
+   🔗 Link: https://www.youtube.com/watch?v=Ybr6I4fuNgM
+
+✅ Kênh: @Levi97 (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: Thứ bảyyy
+   👉 Tiêu đề M3U (đã làm sạch): Thứ bảyyy
+   🔗 Link: https://www.youtube.com/watch?v=ctKJ0AS5SoA
+
+💤 Kênh: @afc78
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+❌ Kênh: @MsbRewind
+   - Trạng thái: Không tìm thấy ytInitialData.
+
+💤 Kênh: @fcmnlop
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+💤 Kênh: @pbatv
+   - Trạng thái: Không có luồng Live nào đang phát.
+
+✅ Kênh: @WWEVault (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: 90s WWE Title Matches | Hogan, Warrior, Bret, Austin, Rock and MORE!
+   👉 Tiêu đề M3U (đã làm sạch): 90s WWE Title Matches Hogan Warrior Bret Austin Rock and MORE!
+   🔗 Link: https://www.youtube.com/watch?v=X0GJeiEv9Rs
+
+✅ Kênh: @WWPTV (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: Mega Pulling Trucks by WWPTV
+   👉 Tiêu đề M3U (đã làm sạch): Mega Pulling Trucks by WWPTV
+   🔗 Link: https://www.youtube.com/watch?v=myxZjapSKCo
+
+✅ Kênh: @GPTV (Có 1 luồng đang Live)
+   👉 Tiêu đề gốc: 🔴GPTV AO VIVO 24H | VERSTAPPEN NO GTWC, CORRIDAS DE F1, WEC, IMSA,  MOTOGP E MAIS | GRANDE PRÊMIO
+   👉 Tiêu đề M3U (đã làm sạch): GPTV AO VIVO 24H VERSTAPPEN NO GTWC CORRIDAS DE F1 WEC IMSA MOTOGP E MAIS GRANDE PRÊMIO
+   🔗 Link: https://www.youtube.com/watch?v=ljcTMyK2pzE
+
+💤 Kênh: @KozoomPoolTV
+   - Trạng thái: Không có luồng Live nào đang phát.
+
